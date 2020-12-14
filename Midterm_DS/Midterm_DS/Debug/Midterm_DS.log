@@ -1,0 +1,3 @@
+﻿  Midterm_DS.cpp
+C:\Users\fuhon\source\repos\Midterm_DS\Midterm_DS\Midterm_DS.cpp(20,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Midterm_DS.vcxproj -> C:\Users\fuhon\source\repos\Midterm_DS\Debug\Midterm_DS.exe
